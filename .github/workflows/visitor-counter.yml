@@ -1,0 +1,14 @@
+name: Visitor Counter
+on:
+  push:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Count unique visitors
+        uses: antonkomarev/github-profile-views-counter-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
