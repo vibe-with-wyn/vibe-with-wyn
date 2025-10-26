@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wyndale Lapura!
+# 👋 Hi, I'm Wendel Lapura!
 
 💻 **Aspiring Full Stack Developer | Software Enthusiast | Problem Solver**
 
@@ -57,18 +57,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wyndalapura&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wyndalapura&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-<p>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vibe-with-wyn&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibe-with-wyn&layout=compact&theme=tokyonight" height="165"/>
 </p>
