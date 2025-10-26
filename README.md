@@ -1,5 +1,5 @@
 <!-- 🌊 Animated Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:1e3c72,100:2a5298&height=160&section=header&text=Wendel%20Lapura&fontSize=42&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:1e3c72,100:2a5298&height=160&section=header&text=Developing%20Solutions,%20Not%20Just%20Software&fontSize=36&fontColor=ffffff)
 
 ## 👋 Hi, I'm Wendel Lapura!
 
