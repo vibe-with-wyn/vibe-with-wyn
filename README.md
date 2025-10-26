@@ -75,7 +75,9 @@
 ---
 
 ### 👀 Visitor Count
-![Profile Views](https://vbr.nathanchung.dev/api/v1/vibe-with-wyn)
+<p align="center">
+  <img src="https://vbr.nathanchung.dev/vibe-with-wyn?color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
