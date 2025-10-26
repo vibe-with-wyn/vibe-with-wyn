@@ -76,7 +76,7 @@
 
 ### 👀 Visitor Count
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vibe-with-wyn&left_text=Profile%20Views" />
+  <img src="https://vbr.nathanchung.dev/api/v1/vibe-with-wyn?color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
