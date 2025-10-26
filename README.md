@@ -76,7 +76,7 @@
 
 ### 👀 Visitor Count
 <p align="center">
-  <img src="https://vbr.nathanchung.dev/vibe-with-wyn?color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vibe-with-wyn&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
