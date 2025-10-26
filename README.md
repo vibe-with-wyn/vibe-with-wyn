@@ -1,6 +1,16 @@
+<!-- 🌊 Animated Header Banner -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:1e3c72,100:2a5298&height=160&section=header&text=Wendel%20Lapura&fontSize=42&fontColor=ffffff)
+
 ## 👋 Hi, I'm Wendel Lapura!
 
 💻 **Aspiring Full Stack Developer | Software Enthusiast | Problem Solver**
+
+---
+
+<!-- 🖥️ Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding GIF"/>
+</p>
 
 ---
 
@@ -19,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript"/>
 </p>
 
 #### ⚙️ Frameworks
@@ -40,6 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" height="30" alt="Redis"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30" height="30" alt="RabbitMQ"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="30" height="30" alt="XAMPP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" height="30" alt="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="30" height="30" alt="Swagger"/>
 </p>
@@ -58,5 +69,17 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vibe-with-wyn&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibe-with-wyn&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibe-with-wyn&theme=tokyonight" height="165"/>
 </p>
+
+---
+
+### 👀 Visitor Count
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vibe-with-wyn&left_text=Profile%20Views" />
+</p>
+
+---
+
+<!-- 🌊 Animated Footer Banner -->
+![footer](https://capsule-render.vercel.app/api?type=wave&color=0:2a5298,100:1e3c72&height=120&section=footer&fontColor=ffffff)
