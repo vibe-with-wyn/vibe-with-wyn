@@ -1,5 +1,9 @@
 <!-- 🌊 Animated Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:1e3c72,100:2a5298&height=160&section=header&text=Developing%20Solutions,%20Not%20Just%20Software&fontSize=36&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:1e3c72,100:2a5298&height=160&section=header&fontColor=ffffff)
+
+<h3 align="center">💡 Developing Solutions, Not Just Software 💡</h3>
+
+---
 
 ## 👋 Hi, I'm Wendel Lapura!
 
@@ -68,15 +72,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibe-with-wyn&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibe-with-wyn&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 👀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vibe-with-wyn&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vibe-with-wyn&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibe-with-wyn&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
