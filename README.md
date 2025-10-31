@@ -1,12 +1,11 @@
-<!-- 🌊 Animated Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:1e3c72,100:2a5298&height=160&section=header&fontColor=ffffff)
+<!-- 🌊 Animated Waving Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header&animation=twinkling)
 
 <h3 align="center">💡 Developing Solutions, Not Just Software 💡</h3>
 
 ---
 
 ## 👋 Hi, I'm Wendel Lapura!
-
 
 💻 **Aspiring Full Stack Developer | Software Enthusiast | Problem Solver**
 
@@ -73,9 +72,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center"> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vibe-with-wyn&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=vibe-with-wyn&theme=tokyonight&hide_border=true" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vibe-with-wyn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vibe-with-wyn&theme=transparent&hide_border=true" height="160"/>
 </p>
 
 ---
