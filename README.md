@@ -73,7 +73,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vibe-with-wyn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vibe-with-wyn&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&hide_title=true" height="160"/>
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vibe-with-wyn&theme=transparent&hide_border=true" height="160"/>
 </p>
 
