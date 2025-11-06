@@ -7,7 +7,7 @@
 
 ## 👋 Hi, I'm Wendel Lapura!
 
-💻 **Aspiring Full Stack Developer | Software Enthusiast | Problem Solver**
+💻 **Aspiring Backend Developer | Software Enthusiast | Problem Solver**
 
 ---
 
@@ -65,8 +65,8 @@
 ### 🧠 Currently Learning
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30" height="30" alt="GraphQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" height="30" alt="Google Cloud"/>
 </p>
 
 ---
