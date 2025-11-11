@@ -3,7 +3,7 @@
 
 <h3 align="center">💡 Developing Solutions, Not Just Software 💡</h3>
 
----
+--
 
 ## 👋 Hi, I'm Wendel Lapura!
 
