@@ -71,7 +71,6 @@
 
 ---
 
-### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vibe-with-wyn&theme=transparent&hide_border=true" height="150"/>
 </p>
