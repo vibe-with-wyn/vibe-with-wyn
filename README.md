@@ -6,7 +6,6 @@
 
 💻 **Aspiring Backend Developer | Software Enthusiast | Problem Solver**
 
----
 
 <!-- 🖥️ Coding GIF -->
 <p align="center">
