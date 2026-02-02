@@ -1,8 +1,6 @@
 <!-- 🌊 Animated Waving Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header&animation=twinkling)
 
-<h3 align="center">💡 Developing Solutions, Not Just Software 💡</h3>
-
 ---
 
 ## 👋 Hi, I'm Wendel Lapura!
