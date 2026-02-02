@@ -57,7 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="30" height="30" alt="Swagger"/>
 </p>
 
----
 
 ### 🧠 Currently Learning
 <p>
